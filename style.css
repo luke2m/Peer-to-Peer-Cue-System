@@ -55,19 +55,19 @@ a:visited{
 }
 
 .standby {
-    background-color: red;
+    background-color: #FF4136;
 }
 
 .go {
-    background-color: green;
+    background-color: #2ECC40;
 }
 
 .fade {
-    background-color: yellow;
+    background-color: #FFDC00;
 }
 
 .off {
-    background-color: gray;
+    background-color: #0074D9;
 }
 
 .hidden {
